@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Coffee\n"
+"POT-Creation-Date: 2016-05-24 15:26+0530\n"
+"PO-Revision-Date: 2016-05-24 15:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 דף לא נמצא"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr "נראה כאילו לקחתם פנייה לא נכונה. אל תדאג. זה קורה לטובים ביותר בינינו."
+
+#: archive.php:36 category.php:32 index.php:34 search.php:25
+msgid "Back"
+msgstr "חזור"
+
+#: archive.php:37 category.php:33 index.php:35 search.php:26
+msgid "Next"
+msgstr "הבא"
+
+#: archive.php:38 category.php:34 index.php:36 search.php:27
+msgid "Posts navigation"
+msgstr "ניווט פוסטים"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "מחשבה אחת על &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "‏&larr; תגובות ישנות יותר"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "אזור התגובות סגור"
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "ערוך"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "| תגיות:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "קרא\\י עוד &raquo;"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "המשך לקרוא <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:20
+msgid "100 King St, Melbourne PIC 4000,<br /> Australia"
+msgstr "100 המלך הקדוש, מלבורן PIC 4000,<br>אוסטרליה"
+
+#: footer.php:24
+msgid "<strong>Phone:</strong> +123 456 7890"
+msgstr "<strong>טלפון:</strong> +123 456 7890"
+
+#: footer.php:28
+msgid "Email: "
+msgstr "הוסף כתובת הדוא ל כאן."
+
+#: footer.php:54 inc/customizer.php:250
+msgid "Main Menu"
+msgstr "תפריט ראשי"
+
+#: footer.php:64 inc/customizer.php:261
+msgid "Our Philosophy"
+msgstr "הפילוסופיה שלנו"
+
+#: footer.php:67 inc/customizer.php:272
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue."
+msgstr ""
+"Donec ut ex ac והנה pellentesque mollis ב למשל. Praesent placerat mauris "
+"ספיאן, vitae sodales לספר לנו ותהילים טז venenatis Suspendisse suscipit "
+"velit מזהה auctor ultricies. כשנעצר turpis arcu, נדל התקדמות sed "
+"sollicitudin sed, פורטה quis urna. Quisque velit nibh, egestas et erat augue "
+"interdum, vehicula.<br>Donec ut ex ac והנה pellentesque mollis ב למשל. "
+"Praesent placerat mauris ספיאן, velit suscipit suspendisse vitae sodales "
+"לספר לנו venenatis ac."
+
+#: footer.php:71 footer.php:73 header.php:89
+msgid "Read More"
+msgstr "קרא עוד"
+
+#: footer.php:80 inc/customizer.php:295
+msgid "Latest Post"
+msgstr "פרסום אחרון"
+
+#: footer.php:94
+msgid "Read more"
+msgstr "קרא עוד"
+
+#: footer.php:106
+msgid "&copy; 2016"
+msgstr "&copy;2016 "
+
+#: footer.php:106
+msgid "All Rights Reserved"
+msgstr "כל הזכויות שמורות."
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr "תפריט Footer"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "סרגל צדדי של הבלוג"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "מופיע בסרגל הצידי דף בלוג"
+
+#: functions.php:64 inc/customizer.php:307
+msgid "Header Info"
+msgstr "כותרת עליונה וכותרת תחתונה פרטי"
+
+#: functions.php:65
+msgid "Appears on header of site"
+msgstr "מופיע בכותרת של האתר"
+
+#: functions.php:84
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "ב"
+
+#: functions.php:91
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "ב"
+
+#: header.php:42
+msgid "Menu"
+msgstr "תפריט"
+
+#: header.php:119
+msgid "Details"
+msgstr "פרטים"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"פורסם ב<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> ב <a href=\"%3$s\">%4$s &times; %5$s</a> בעמוד <a href="
+"\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "‏<span class=“meta-nav”>&larr;</span> הקודם"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "הבא <span class=“meta-nav”>&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "אודות התבנית"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "לגבי נושא פרטי"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal and corporate. Google map compatible for location, Video "
+"compatible for videos and qTranslate X compatible for multilingual and "
+"translation ready. WooCommerce compatible for Ecommerce and Nextgen Gallery "
+"compatible for gallery and portfolio websites. Contact form 7 compatible and "
+"WordPress SEO plugins compatible."
+msgstr ""
+"קפה SKT הוא מגיב קפה, ערכת נושא לוורדפרס מסעדה אשר רב תכליתי, יכול לשמש עבור "
+"מלונות, אוכל, מתכונים, טבע, חקלאות, עסקים, האישיים והארגוניים. מפת גוגל תואם "
+"עבור מיקום, הסרטונים תואם ל- qTranslate X תואם עבור קטעי וידאו רב לשוני "
+"ותרגום מוכן. WooCommerce תואם עבור מסחר אלקטרוני, Nextgen גלריה תואמת עבור "
+"אתרי אינטרנט גלריית ואת תיק עבודות. צור קשר עם טופס 7 תואם ו- WordPress SEO "
+"plugins תואמת."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "הדגמה חיה"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "לקנות Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "הצג הכל"
+
+#: inc/customizer.php:39
+msgid "Color Scheme"
+msgstr "סכמת צבעים"
+
+#: inc/customizer.php:40
+msgid "More color options in PRO Version"
+msgstr "אפשרויות צבע יותר בגרסה PRO."
+
+#: inc/customizer.php:50
+msgid "Slider Settings"
+msgstr "הגדרות סליידר"
+
+#: inc/customizer.php:52
+msgid ""
+"Featured Image Size Should be ( 1420x607 ) More slider settings available in "
+"PRO Version"
+msgstr ""
+"גודל התמונה נבחרים צריך להיות (1420 x 607) הגדרות המחוון יותר בגרסת PRO"
+
+#: inc/customizer.php:65
+msgid "Select page for slide one:"
+msgstr "בחר דף עבור שקופית אחת:"
+
+#: inc/customizer.php:77
+msgid "Select page for slide two:"
+msgstr "בחר דף עבור שקופית 2:"
+
+#: inc/customizer.php:89
+msgid "Select page for slide three:"
+msgstr "בחר עמוד עבור שקופית 3:"
+
+#: inc/customizer.php:100
+msgid "Hide slider Section"
+msgstr "להסתיר את המחוון סעיף"
+
+#: inc/customizer.php:106
+msgid "Homepage Our Speciality Section"
+msgstr "דף הבית בסעיף המומחיות שלנו"
+
+#: inc/customizer.php:107
+msgid ""
+"Select Pages from the dropdown for homepage our speciality and three circle "
+"section"
+msgstr "בחר עמודים מהרשימה הנפתחת עבור דף הבית המומחיות שלנו והמקטע מעגל שלוש"
+
+#: inc/customizer.php:163
+msgid "Hide four column page boxes"
+msgstr "הסתר ארבע תיבות דף עמודה"
+
+#: inc/customizer.php:169
+msgid "Homepage Welcome Section"
+msgstr ". ברוך הבא דף הבית סעיף"
+
+#: inc/customizer.php:170
+msgid "Select Page from the dropdown for first section"
+msgstr "בחר דף מהרשימה הנפתחת עבור המקטע הראשון"
+
+#: inc/customizer.php:192
+msgid "Hide Welcome Section"
+msgstr "אזור ברוכים הבאים"
+
+#: inc/customizer.php:198
+msgid "Social Settings"
+msgstr "הגדרות חברתיות"
+
+#: inc/customizer.php:199
+msgid "More social icon available in PRO Version"
+msgstr "סמל יותר חברתי בגרסת PRO."
+
+#: inc/customizer.php:210
+msgid "Add facebook link here"
+msgstr "הוסף קישור בפייסבוק כאן"
+
+#: inc/customizer.php:220
+msgid "Add twitter link here"
+msgstr "להוסיף בטוויטר קישור כאן"
+
+#: inc/customizer.php:229
+msgid "Add google plus link here"
+msgstr "הוספת גוגל פלוס קישור כאן"
+
+#: inc/customizer.php:238
+msgid "Add linkedin link here"
+msgstr "הוסף קישור linkedin כאן"
+
+#: inc/customizer.php:244
+msgid "Footer Area"
+msgstr "אזור כותרת תחתונה"
+
+#: inc/customizer.php:246
+msgid "Add footer copyright text"
+msgstr "הוסף טקסט זכויות יוצרים כותרת תחתונה"
+
+#: inc/customizer.php:255
+msgid "Add title for menu"
+msgstr "הוסף כותרת עבור תפריט"
+
+#: inc/customizer.php:266
+msgid "Add title for our philosophy"
+msgstr "הוסף כותרת עבור הפילוסופיה שלנו"
+
+#: inc/customizer.php:277
+msgid "Add description for about us"
+msgstr "הוסף תיאור עבור עלינו"
+
+#: inc/customizer.php:289
+msgid "Add link for footer read more button"
+msgstr "הוספת קישור עבור הכותרת התחתונה לקרוא עוד כפתור"
+
+#: inc/customizer.php:300
+msgid "Add title for footer latest post"
+msgstr "הוסף כותרת להודעה האחרונה תחתונה"
+
+#: inc/customizer.php:308
+msgid "Add phone number and address"
+msgstr "להוסיף מספר טלפון וכתובת"
+
+#: inc/customizer.php:314
+msgid " +123 456 7890"
+msgstr "+123 456 7890"
+
+#: inc/customizer.php:319
+msgid "Add contact phone number for header"
+msgstr "להוסיף מספר טלפון ליצירת קשר עבור כותרת"
+
+#: inc/customizer.php:326 inc/customizer.php:345
+msgid "1600 Amphitheatre Parkway Mountain View, CA 94043"
+msgstr "1600 אמפיתיאטרון פארקווי Mountain View, CA 94043"
+
+#: inc/customizer.php:331
+msgid "Add contact address for header"
+msgstr "הוסף כתובת ליצירת קשר עבור כותרת"
+
+#: inc/customizer.php:338
+msgid "Footer Contact Info"
+msgstr "מידע ליצירת קשר תחתונה"
+
+#: inc/customizer.php:339
+msgid "Add your contact details here"
+msgstr "הוסף את פרטי הקשר שלך כאן"
+
+#: inc/customizer.php:350
+msgid "Add contact address here"
+msgstr "הוסף כתובת ליצירת קשר כאן"
+
+#: inc/customizer.php:356
+msgid "+123 456 7890"
+msgstr "+123 456 7890"
+
+#: inc/customizer.php:360
+msgid "Add contact number here."
+msgstr "הוסף איש קשר מספר כאן."
+
+#: inc/customizer.php:370
+msgid "Add you email here"
+msgstr "הוסף את הדוא ל שלי"
+
+#: inc/customizer.php:439
+msgid "Upgrade to PRO Version"
+msgstr "שדרוג לגרסה PRO"
+
+#: inc/customizer.php:440
+msgid "More Widgets in"
+msgstr "יישומונים יותר ב"
+
+#: inc/customizer.php:441
+msgid "PRO Version"
+msgstr "סמל יותר חברתי בגרסת PRO."
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "פינגבאקים:"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור."
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">לאור %1$s</span> <span class=\"byline\">על-ידי "
+"%2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "לא נמצא דבר"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך<a href=\"%1$s\">Get started here</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"אנו מצטערים, לא מצאנו שום דבר שקשור למונחי החיפוש שכתבת. יש לנסות שוב בעזרת "
+"מילות חיפוש אחרות."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "נראה שאנחנו לא מוצאים מה שאתה מחפש. אולי חיפוש יכול לעזור."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "חיפוש..."
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "חפש"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "קטגוריה"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "ארכיון"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "מטא"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Coffee"
+msgstr "SKT Coffee"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-coffee/"
+msgstr "http://www.sktthemes.net/shop/skt-coffee/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal, local business, simple, flexible and corporate. Gym, "
+"Sports, fitness, medical, health and doctors, clinic etc can also use this "
+"theme. qTranslate X compatible for multilingual and translation ready. "
+"WooCommerce compatible for eCommerce and Nextgen Gallery compatible for "
+"gallery and portfolio websites. Contact form 7 compatible and WordPress SEO "
+"plugins compatible. Check demo at: http://sktthemesdemo.net/coffee-shop/"
+msgstr ""
+"קפה SKT הוא בית קפה קשוב נושא מסעדת WordPress שהוא תכליתי ויכול לשמש לבתי "
+"מלון, אוכל, מתכונים, טבע, חקלאות, עסקים, אישיים, עסקים מקומיים, פשוט, גמיש "
+"ועסקי. כושר, ספורט, כושר, רפואה, בריאות ורופאים, וכו מרפאה יכולים גם להשתמש "
+"הנושא הזה. qTranslate X תואם עבור רב לשוני ותרגום מוכן. WooCommerce תואם "
+"עבור eCommerce ו NextGen גלריה תואם עבור אתרי גלריה תיק. לתקשר בצורה 7 תואם "
+"ו WordPress SEO plugins תואם. בדוק הדגמה ב: http://sktthemesdemo.net/coffee-"
+"shop/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

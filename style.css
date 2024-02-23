@@ -1,0 +1,338 @@
+/*
+Theme Name: SKT Coffee
+Theme URI: https://www.sktthemes.org/shop/skt-coffee/
+Author: SKT Themes
+Author URI: https://www.sktthemes.org
+Description: SKT Coffee is a responsive cafe and restaurant WordPress theme which is multipurpose and can be used for hotels, food, recipes, nature, agriculture, business, personal, local business, simple, flexible and corporate. Gym, Sports, fitness, medical, health and doctors, clinic etc can also use this theme. qTranslate X compatible for multilingual and translation ready. WooCommerce compatible for eCommerce and Nextgen Gallery compatible for gallery and portfolio websites. Contact form 7 compatible and WordPress SEO plugins compatible. Readily translated into 10+ languages. Check demo at: https://sktthemesdemo.net/coffee-shop/
+
+Version: 2.2
+Tested up to: 6.4
+Requires PHP: 7.4
+License: GNU General Public License
+License URI: license.txt
+Text Domain: skt-coffee
+Tags: one-column,two-columns,right-sidebar,custom-background,custom-header,custom-menu,editor-style,featured-images,sticky-post,theme-options,threaded-comments,translation-ready
+
+SKT Coffee is based on Underscores theme(Underscores is distributed under the terms of the GNU GPL v2 or later).
+
+SKT Coffee WordPress Theme has been created by SKT Themes(sktthemes.org), 2016.
+SKT Coffee WordPress Theme is released under the terms of GNU GPL
+*/
+body{ margin:0; padding:0;line-height:20px; font-size:13px; color:#5c5c5c; font-family:Arial, Helvetica, sans-serif; box-sizing:border-box;}
+*{ margin:0; padding:0; outline:none;}
+img{ border:none; margin:0; padding:0; height:auto}
+.wp-caption, .wp-caption-text, .sticky, .gallery-caption, .aligncenter{ margin:0; padding:0;}
+p{ margin:0; padding:0;}
+a{ text-decoration:none; color:#c38346;}
+a:hover{ color:#b68023;}
+ol,ul{ margin:0; padding:0;}
+ol li,ul li{ list-style:inside;}
+ul li ul, ul li ul li ul, ol li ol, ol li ol li ol{ margin-left:10px;}
+h1,h2,h3,h4,h5,h6{ color:#484f5e; font-family:'Roboto', sans-serif; margin:0 0 20px; padding:0; line-height:1.1; font-weight:400; text-transform:uppercase; word-wrap:break-word;}
+h1{ font-size:36px;}
+h2{ font-size:30px;}
+h3{ font-size:24px;}
+h4{ font-size:20px;}
+h5{ font-size:18px;}
+h6{ font-size:14px;}
+.clear{ clear:both;}
+ 
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+img.alignnone, .alignnone, .alignnone img{width:100%; display:table-cell;}
+
+
+img.aligncenter, .aligncenter{text-align:center; float:none; padding:5px; display:block; margin:0 auto;}
+img.alignleft, .alignleft{ float:left; margin:0 15px 0 0; padding:5px;}
+img.alignright, .alignright{ float:right; margin:0 0 0 15px; padding:5px;}
+.left{ float:left;}
+.right{ float:right;}
+.space50{ clear:both; height:50px;}
+.space100{ clear:both; height:100px;}
+.pagination{display:table; clear:both;}
+.pagination ul{list-style:none; margin:20px 0;}
+.pagination ul li{display:inline; float:left; margin-right:5px;}
+.pagination ul li span, .pagination ul li a{background:#646262; color:#fff; padding:5px 10px; display:inline-block;}
+.pagination ul li .current, .pagination ul li a:hover{background:#34c6f6;}
+
+#comment-nav-above .nav-previous, #comment-nav-below .nav-previous{ float:none !important; margin:10px 0;}
+ol.comment-list li{ list-style:none; margin-bottom:5px;}
+.container{ width:1100px; margin:0 auto; position:relative;}
+/*header menu css*/
+.toggle{display: block;}
+.toggle a{ color:#ffffff; background:url(images/mobile_nav_right.png) no-repeat right center #c38346; padding:10px 10px; margin-top:5px; font-size:16px; text-align:left;}
+.toggle a:hover{color:#ffffff !important;}
+.sitenav{display:none;}
+.sitenav{ padding:0; text-align:right; float:right;}
+.sitenav ul { float:right; margin:0; padding:0; font-family:'Roboto', sans-serif; font-weight:400; font-size:14px; text-transform:uppercase;}
+.sitenav ul li{ display:inline-block; margin:0; position:relative; text-align:center;}
+.sitenav ul li a{ padding:10px 13px; display:block; color:#fff; }
+.sitenav ul li ul li{display:block; position:relative; float:none; top:-1px; border-bottom:1px solid #442a13;}
+.sitenav ul li ul li a{display:block; padding-top:10px; padding-bottom:10px; position:relative; top:1px; text-align:left;  }
+.sitenav ul li a:hover, .sitenav ul li.current_page_item a{ color:#c38346; }
+
+.sitenav ul li ul{display:none; z-index:9999999; position:relative;}
+.sitenav ul li:hover > ul{display:block; width:200px; position:absolute; left:0; text-align:left; background-color: rgba(29, 14, 0, 0.9);  box-shadow:0 2px 2px #333; }
+.sitenav ul li:hover ul li ul{display:none; position:relative;}
+.sitenav ul li:hover ul li:hover > ul{display:block; position:absolute; left:200px; top:1px;}
+
+
+/* = header top sign in  css
+-------------------------------------------------------------- */
+.header{width:100%; z-index:999; top:auto; background-color: rgba(29, 14, 0, 0.7); position:absolute; }
+.innerheader{position:relative; background-color: rgba(29, 14, 0, 1);}
+
+.logo{float:left; z-index:99; padding:20px 0;  color:#fff; width:20%;}
+.logo h1{font-weight:400; margin:0; line-height:36px; color:#fff; text-transform:uppercase; font-size:24px;}
+.logo h1 span{ color:#c38346;}
+.logo a{ color:#fff;}
+
+.header_right{ float:right; text-align:right; width:80%; color:#fff;}
+.headerinfo { font:600 14px/24px 'Roboto'; color:#fff; padding:10px 20px 10px 0; }
+.headerinfo span{  font-size:14px; margin-left:20px; }
+.headerinfo .phoneno{ background:url(images/icon-phone.png) no-repeat left 4px; padding:0 0 0 20px;}
+.headerinfo .address{ background:url(images/location-icon.png) no-repeat left 4px; padding:0 0 0 15px;}
+
+section#home_slider{ padding:0; border-bottom:4px solid #c38346}
+#FrontBlogPost, #wrapfirst, #wrapsecond{ padding:70px 0;}
+h2.section-title {color:#454545; font:300 36px/40px 'Roboto',san-serif; text-align: center; }
+
+
+.headerinfo #calendar_wrap{float:right;}
+.headerinfo .search-field, .headerinfo select{width:200px; height:28px;}
+.headerinfo ul li, .headerinfo ol li{list-style:none; display:inline-block;}
+.headerinfo h3{display:block !important; color:#FFF;}
+
+
+
+/*services section css*/
+#pagearea{ background-color:#432a1c; border-bottom:6px solid #865628; padding:50px 0; color:#fff;}
+.leftwrap{ width:41%; float:left; margin:0 20px 0 0;}
+.leftwrap .leftthumbbx{ width:177px; float:left;  margin:0 35px 0 0;}
+.leftwrap h2{ color:#fff; font-weight:300; font-family: 'Roboto', sans-serif; font-size:30px; margin:15px 0;}
+.leftwrap h2 span{ color:#c38346; font-weight:900;}
+.leftwrap p{ margin-bottom:25px;}
+
+.rightwrap{ width:51%; float:right;}
+.rightwrap .threebox{ width:164px; height:164px; float:left; margin:0 0 0 22px; background-color:#fff; border-radius:50%; text-align:center;}
+.rightwrap .threebox img{ margin:30px auto 10px auto;}
+.rightwrap .threebox h3{ font-size:16px; font-weight:600; color:#381305;}
+.rightwrap .threebox a{ display:block;}
+
+
+a.ReadMore{ background-color:#c38346; color:#fff ; padding:5px 15px; font:normal 18px/22px 'Roboto Condensed'; text-transform:uppercase; -moz- border-radius:5px; -webkit- border-radius:5px; border-radius:5px;}
+a.ReadMore:hover{ background-color:#865628; color:#fff; }
+
+
+/* = Services section css
+-------------------------------------------------------------- */
+#wrapfirst{ background:url(images/bodybg.jpg) repeat left top;}
+.last_column{clear:right; margin-right:0 !important; }
+.MoreLink{ background-color:#262626; color:#fff ;display: inline-block; padding:6px 15px;}
+.welcomewrap img{ float:right; margin:10px 0 0 30px; padding:7px; background-color:#fff; border:1px solid #e6e5e5;}
+.welcomewrap p{ margin-bottom:30px;}
+.welcomewrap h2{  margin-bottom:20px; font-size:38px; border-bottom:1px solid #e1c9b3; box-shadow:0 1px 0 #fff; padding-bottom:10px; }
+.welcomewrap h2 span{ color:#c38346;}
+
+/* = social icons css
+-------------------------------------------------------------- */
+.social-icons a{ background-color:#432a1c !important; color:#fff; width:35px; height:35px; line-height:35px; text-align:center;  vertical-align:middle; display:inline-block; transition:0.6s; -moz-transition:0.6s; -webkit-transition:0.6s; -o-transition:0.6s;  margin:0 3px 0 0; padding:0; border-radius:50%; }
+.social-icons br{ display:none;}
+.social-icons a:hover{ background-color:#c38346 !important; color:#fff;}
+.social-icons .fb{ background:url(images/icon-fb.png) no-repeat center center; }
+.social-icons .tw{ background:url(images/icon-tw.png) no-repeat center center; }
+.social-icons .gp{ background:url(images/icon-gp.png) no-repeat center center;}
+.social-icons .in{ background:url(images/icon-in.png) no-repeat center center;}
+
+/* = Page lay out css
+-------------------------------------------------------------- */
+.site-main{ width:740px; margin:0; padding:0; float:left;}
+#sitefull{ width:100%; float:none;}
+#sitefull p{ margin-bottom:15px;}
+.page_content{ padding:25px 0;}
+.page_content p{ margin-bottom:20px; line-height:20px;}
+
+.blog_lists{ margin-bottom:30px; }
+.blog_lists h3{ margin-bottom:0px; text-transform:none;}
+.blog_lists h3 a{ color:#484f5e;}
+.blog_lists h3 a:hover{ color:#c38346;}
+.blog_lists p{ margin-bottom:10px;}
+.blog-meta{ font-style:italic; margin-bottom:8px;}
+.post-date, .post-comment, .post-categories{ display:inline; color:#000000;} 
+.single_title{ margin-bottom:5px;}
+.BlogPosts{ width:31.2%; float:left; margin:0 3% 0 0;}
+.BlogPosts img{ width:100%;}
+.BlogPosts h3{ margin:10px 0; font-size:22px; }
+.post-thumb{ width:20%; float:left; margin:5px 25px 5px 0;}
+
+/* = sidebar
+-------------------------------------------------------------- */
+#sidebar{ width:330px; float:right;}
+aside.widget{margin-bottom:30px; background-color:#f6f4f4; padding:20px; border:1px solid #edecec;}
+aside.widget ul{ list-style:disc; }
+h3.widget-title{ background-color:#c38346; padding:12px 15px; margin-bottom:1px; color:#fff;}
+#sidebar ul li{list-style:none; word-wrap:break-word; border-bottom:1px dashed #d0cfcf; display:block; padding:12px 0;}
+#sidebar ul li a{ background:url(images/sidebar-arrow.png) no-repeat 0 14px; padding:10px 0 10px 20px; color:#3b3b3b;}
+#sidebar ul li a:hover{ color:#34c6f6;}
+#sidebar ul li:last-child a{ border:none;}
+/* = Footer css
+-------------------------------------------------------------- */
+#footer-wrapper{ background:url(images/footerbg.jpg) repeat center top; position:relative; padding:45px 0 0; color:#fff; border-top:9px solid #432a1c;}
+.cols-4{width:24%; float:left; margin:0 3% 2% 0; word-wrap:break-word;}
+.widget-column-2 { width:19%;}
+.widget-column-4 { margin-right:0px !important;}
+.cols-4 h5{ font-weight:400; font-size:24px; color:#fff; margin-bottom:25px; border-bottom:1px solid #432a1c; padding-bottom:15px; text-transform:uppercase; }
+.cols-4 h5 span{ font-weight:300; color:#c38346; }
+.cols-4 ul{ margin:0; padding:0; list-style:inside disc;}
+.cols-4 ul li { display:block; padding:0; word-wrap:break-word;}
+.cols-4 ul li a { color:#fff; font:normal 12px/24px Arial, Helvetica, sans-serif; background:url(images/list-arrow.png) no-repeat 0 2px; padding:0 0 0 20px;}
+.cols-4 ul li a:hover, .cols-4 ul li.current_page_item a { color:#dd5145; }
+
+.cols-4 a.readmore span{ color:#fff;}
+.cols-4 p{ margin-bottom:15px;}
+.cols-4 h1, .cols-4 h2, .cols-4 h3, .cols-4 h4, .cols-4 h5, .cols-4 h6{color:#fff;}
+.phone-no{ margin:10px 0 20px; line-height:22px;}
+.phone-no a{color:#d6d6d6;}
+.phone-no a:hover{color:#d6d6d6;}
+.phone-no strong { display:inline-block; color:#c38346;}
+.cols-4 .phone-no p{ margin-bottom:0;}
+.widget-column-2 a{font:400 20px/24px 'Roboto',san-serif;}
+
+/*footer recent post*/
+div.recent-post{ margin:0px; padding:0px; list-style:none;}
+div.recent-post { display:block; line-height:18px; padding:0 0 30px 0px; background:none; margin-bottom:30px; border-bottom:#432a1c 1px dashed;}
+div.recent-post  img { float:left; margin:0 15px 0 0; border:#432a1c solid 3px;}
+div.recent-post span {font-size:11px;}
+div.recent-post a {text-decoration:none; background:transparent;}
+div.recent-post  a:hover { text-decoration:none;}
+div.recent-post:last-child { border-bottom:0; padding-bottom:0; margin-bottom:0;}
+div.recent-post p{ display:inline; line-height:22px; margin:0;}
+
+.footerlogo{ background-color:#432a1c; padding:15px 20px; text-align:center; margin:-45px 0 25px 0; width:155px; float:none; }
+.footerlogo h1{ font-size:25px !important; }
+
+.copyright-wrapper {  background-color:#432a1c; position:relative; padding:15px 0;}
+.copyright-txt { float:left;}
+.copyright-txt span{color:#c38346;}
+.design-by { float:right;}
+.recent-post{ min-height:70px; margin:0 0 20px 0;}
+.recent-post img{ float:left; width:60px; margin:3px 10px 5px 0;}
+.recent-post h6{ font-size:15px; color:#fff; margin:0 0 5px; font-weight:600;}
+.recent-post h6:hover{color:#34c6f6;}
+.recent-post:last-child{ border-bottom:none; margin-bottom:0; padding-bottom:0;}
+
+/* Buttons */
+.button{ background-color:#ff6565; border-bottom:4px solid #e44545; color:#fff; padding:8px 20px; display:inline-block; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px; -o-border-radius:2px; -ms-border-radius:2px; }
+.button:hover{background-color:#34c6f6; border-color:#1898c2; color:#fff;}
+
+/* woocommerce CSS
+================================================*/
+a.added_to_cart{background:#e1472f; padding:5px; display:inline-block; color:#fff; line-height:1;}
+a.added_to_cart:hover{background:#000000;}
+a.button.added:before{content:'' !important;}
+#bbpress-forums ul li{padding:0;}
+#subscription-toggle a.subscription-toggle{padding:5px 10px; display:inline-block; color:#e1472f; margin-top:4px;}
+textarea.wp-editor-area{border:1px #ccc solid;}
+.woocommerce input[type=text], .woocommerce textarea{border:1px #ccc solid; padding:4px;}
+form.woocommerce-ordering select{ padding:5px; color:#777777;}
+.woocommerce table.shop_table th, .woocommerce-page table.shop_table th{ font-family:'Roboto',san-serif; color:#c38346;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:inherit !important;}
+h1.product_title, p.price{ margin-bottom:10px;}
+.woocommerce table.shop_table th, .woocommerce-page table.shop_table th{ font-family:'Roboto',san-serif; color:#c38346;}
+.woocommerce ul.products li, #payment ul.payment_methods li{ list-style:none !important;}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price{ color:inherit !important;}
+.woocommerce table.shop_table th, .woocommerce table.shop_table td{ border-bottom:0px !important}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {clip: rect(1px, 1px, 1px, 1px);position: absolute !important;	height: 1px;width: 1px;	overflow: hidden;}
+.screen-reader-text:focus {	background-color: #f1f1f1;	border-radius: 3px;	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);	clip: auto !important;	color: #21759b;	display: block;
+	font-size: 14px;font-size: 0.875rem;font-weight: bold;	height: auto;left: 5px;	line-height: normal;padding: 15px 23px 14px;text-decoration: none;	top: 5px;	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+/* ============= Contact Page =========== */
+.wpcf7{ margin:30px 0 0; padding:0;}
+.wpcf7 input[type="text"], .wpcf7 input[type="tel"], .wpcf7 input[type="email"]{ width:40%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:35px; padding:0 15px; color:#797979; margin-bottom:0;}
+.wpcf7 textarea{width:60%; border:1px solid #cccccc; box-shadow:inset 1px 1px 2px #ccc; height:150px; color:#797979; margin-bottom:25px; font:12px arial; padding:10px; padding-right:0;}
+.wpcf7 input[type="submit"]{background-color:#c38346; width:auto; border:none; cursor:pointer; font:18px 'Roboto',san-serif; color:#ffffff; padding:10px 40px; border-radius:3px;}	
+
+/* ============= Comment Form ============ */
+h1.screen-reader-text{font:22px 'Roboto',san-serif;}
+.site-nav-previous, .nav-previous{ float:left;}
+.site-nav-next, .nav-next{ float:right;}
+h3#reply-title{font:300 18px 'Roboto',san-serif;}
+#comments{ margin:30px 0 0; padding:0;}
+nav#nav-below{ margin-top:15px;}
+
+/* ============= Nested Comments ============ */
+h2.h2comments{display:block; clear:both; border-bottom:1px #bbb solid; padding:10px 0 5px 5px; margin:20px 0 0 0;}
+h2.h2comments a.addComment{display:block; text-transform:uppercase; float:right; font-size:12px; margin-top:-3px; padding-top:8px;
+margin-right:10px; font-weight:bold;}
+h2.h2comments a.addComment:hover{text-decoration:none;}
+h2#commentsForm{margin:15px 0; padding-top:15px;}
+ul.commentlist{list-style:none; list-style-position:outside; display:block; padding-bottom:30px;
+overflow:hidden; border-bottom:1px #bbb solid;}
+ul.commentlist ul{list-style-type:none; list-style:none; list-style-position:outside; margin:0;}
+ul.commentlist li{position:relative; margin:25px 0 0; list-style:none;}
+.commentlist li{list-style:none !important;}
+ul.commentlist li p{margin:5px 0; padding:5px 0;}
+ul.commentlist li .comment-meta, ul.commentlist li .text {font-style:italic; font-size:11px; text-align:justify;}
+ul.commentlist li .comment-meta span{font-size:11px; color:#999;}
+.comment-meta p{text-align:justify;}
+ul.commentlist li .avatar{background:#F8F7F1; border:1px solid #FFF; padding:3px; float: left; margin: 1px 8px 8px 0;}
+ul.commentlist .reply{font-size:10px; width:100%; border-bottom:1px #ccc dotted; padding-bottom:1px;}
+ul.commentlist .reply a{background:#F7F3C5; padding:3px; border:1px dotted #bbb; border-bottom:none; list-style:none;}
+ul.commentlist .reply a:hover{text-decoration:none;}
+ul.commentlist li .children{margin-left:45px; border-left:1px dotted #bbb; padding-left:5px;}
+ /* ----------- Styling the Comment FORM -----------*/
+#commentform p{margin:0; padding:0;}
+#commentform label{display:block; padding:5px 0;}
+#commentform input, #commentform textarea{padding:7px; font-style:italic; border:none; font-size:12px; color:#999; margin:0 0 7px;}
+#commentform input{width:300px;}
+#commentform textarea{font-size:13px; overflow: auto; width:400px;}
+#commentform input#submit{width:161px; height:32px; margin-top:10px; cursor:pointer; font-style:normal; background:#333; font-size:12px; color:#bbb;}
+#commentform input#submit:hover{background:#666; color:#eee;}
+#commentform small{font-size:11px; line-height:10px;}
+.alignleft{float:left; margin:5px 15px 5px 0;}
+.alignright{float:right; margin:5px 0 5px 15px;}
+fieldset{border:0; margin:0.2em 0.1em; padding:0.4em;}
+.form_row{font-weight:bold; font-size:104%;}
+.cancel-comment-reply{font-variant:small-caps; font-size:90%; padding-top:0; margin-top:0;}
+.search-submit{display: inherit !important; float: right; margin-top: -2px; padding: 4px 12px}
+.search-field{display: inherit !important; height: 30px; padding: 5px; width: 70%;} 
+.blog-post .search-field{width:88%;}
+aside select{width:100%; height:25px;}
+#sidebar table{width:100%;}
+#sidebar table th, #sidebar table td{ text-align:center;}
+#prev{text-align:left;}
+#next{text-align:right;}
+aside select{overflow:hidden; white-space:nowrap; text-overflow:ellipsis;}
+aside select option{width:268px; text-overflow:ellipsis; overflow:hidden;}
+.widget-title a{color:#FFF;}
+/*DL, DT, DD TAGS LIST DATA*/
+dl{margin-bottom:50px;}
+dl dt{background:#c38346; color:#fff; float:left; font-weight:bold; margin-right:10px; padding:5px; width:100px;}
+dl dd{margin:2px 0; padding:5px 0;}
+abbr{border:none; color:#05f; cursor:help;}
+q{display: inline;}
+q:before{content: open-quote;}
+q:after{content: close-quote;} 
+.bypostauthor {}
+.topspace{padding-top:125px;}
+.topspacesingle{padding-top:40px;}
+body.wp-site-logo .logo h1{display:none;}
+.rel{ position:relative !important;}
+
+body.wp-custom-logo .logo h1{display:none;}
+body.blog .header{position:relative !important; background-color: rgba(29, 14, 0, 1);}
+
+.page-numbers {display: inline-block; padding: 5px 10px; margin: 0 2px 0 0; border: 1px solid #eee; line-height: 1; text-decoration: none; border-radius: 2px; font-weight: 600;}
+.page-numbers.current, a.page-numbers:hover{background: #f9f9f9;}

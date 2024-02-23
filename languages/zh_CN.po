@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Coffee\n"
+"POT-Creation-Date: 2016-05-24 14:59+0530\n"
+"PO-Revision-Date: 2016-05-24 14:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 - 未找到页面"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr "看起来你好像弄错了...<br />别担心，谁没出过错呢。"
+
+#: archive.php:36 category.php:32 index.php:34 search.php:25
+msgid "Back"
+msgstr "返回"
+
+#: archive.php:37 category.php:33 index.php:35 search.php:26
+msgid "Next"
+msgstr "下一页"
+
+#: archive.php:38 category.php:34 index.php:36 search.php:27
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "一个人评论  &ldquo;%2$s&rdquo;"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "旧的评论"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "新的评论"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "评论被关闭"
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "页数:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "编辑"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "&nbsp;|&nbsp; 标签:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "阅读更多 &raquo;"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读<span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:20
+msgid "100 King St, Melbourne PIC 4000,<br /> Australia"
+msgstr "100景街，墨尔本PIC4000，<br/>澳大利亚"
+
+#: footer.php:24
+msgid "<strong>Phone:</strong> +123 456 7890"
+msgstr "<strong>电话:</strong> +123 456 7890"
+
+#: footer.php:28
+msgid "Email: "
+msgstr "在这里添加电子邮件地址。"
+
+#: footer.php:54 inc/customizer.php:250
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: footer.php:64 inc/customizer.php:261
+msgid "Our Philosophy"
+msgstr "我们的理念"
+
+#: footer.php:67 inc/customizer.php:272
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue."
+msgstr ""
+"Donec ut ex ac nulla pellentesque 翅果油树在 enim。Praesent placerat sapien "
+"mauris，履历 sodales 特力 venenatis 交流 Suspendisse suscipit velit id "
+"ultricies auctor。Duis 获得 turpis arcu，aliquet sed sollicitudin sed，门奎"
+"斯 urna。命运要 velit nibh，egestas et erat，车载 interdum augue。<br>Donec "
+"ut ex ac nulla pellentesque 翅果油树在 enim。Praesent placerat sapien "
+"mauris，履历 sodales 特力 venenatis ac suspendisse suscipit velit。"
+
+#: footer.php:71 footer.php:73 header.php:89
+msgid "Read More"
+msgstr "阅读更多"
+
+#: footer.php:80 inc/customizer.php:295
+msgid "Latest Post"
+msgstr "最新文章"
+
+#: footer.php:94
+msgid "Read more"
+msgstr "继续阅读"
+
+#: footer.php:106
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:106
+msgid "All Rights Reserved"
+msgstr "版权所有"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr "底部菜单"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "博客侧边栏"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面侧边栏"
+
+#: functions.php:64 inc/customizer.php:307
+msgid "Header Info"
+msgstr "标头信息"
+
+#: functions.php:65
+msgid "Appears on header of site"
+msgstr "出现在页眉和页脚的网站"
+
+#: functions.php:84
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "打开"
+
+#: functions.php:91
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "打开"
+
+#: header.php:42
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:119
+msgid "Details"
+msgstr "細節"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"发布时间 <span class=“entry-date”><time class=“entry-date” datetime=“%1$s”>"
+"%2$s</time></span> 于 <a href=“%3$s”>%4$s &times; %5$s</a> 在 <a href=“%6$s” "
+"rel=“gallery”>%7$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 上一页"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "下一页 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "关于"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "关于主题信息"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal and corporate. Google map compatible for location, Video "
+"compatible for videos and qTranslate X compatible for multilingual and "
+"translation ready. WooCommerce compatible for Ecommerce and Nextgen Gallery "
+"compatible for gallery and portfolio websites. Contact form 7 compatible and "
+"WordPress SEO plugins compatible."
+msgstr ""
+"SKT咖啡是一个负责任的咖啡厅和餐厅WordPress主题是多用途，可用于酒店，食品，食"
+"谱，自然，农业，商业，个人和企业。谷歌地图的位置兼容，视频的多语言和翻译准备"
+"兼容的视频和qTranslate点¯x兼容。对于电子商务WooCommerce兼容，NextGen的画廊的"
+"画廊和投资组合的网站兼容。联系表7兼容和WordPress的搜索引擎插件兼容。"
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "在线演示"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "买临"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/customizer.php:39
+msgid "Color Scheme"
+msgstr "启用自定义配色方案，选择你自己的配色方案"
+
+#: inc/customizer.php:40
+msgid "More color options in PRO Version"
+msgstr "在 PRO 版的更多颜色选择。"
+
+#: inc/customizer.php:50
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: inc/customizer.php:52
+msgid ""
+"Featured Image Size Should be ( 1420x607 ) More slider settings available in "
+"PRO Version"
+msgstr "特色图片大小应在Pro版本可用（1420x607）更多滑块设置"
+
+#: inc/customizer.php:65
+msgid "Select page for slide one:"
+msgstr "选择第一张幻灯片的页面 ︰"
+
+#: inc/customizer.php:77
+msgid "Select page for slide two:"
+msgstr "选择第二张幻灯片的页面 ︰"
+
+#: inc/customizer.php:89
+msgid "Select page for slide three:"
+msgstr "第三张幻灯片选择页面 ︰"
+
+#: inc/customizer.php:100
+msgid "Hide slider Section"
+msgstr "隐藏滑动部"
+
+#: inc/customizer.php:106
+msgid "Homepage Our Speciality Section"
+msgstr "首页我们的专业科"
+
+#: inc/customizer.php:107
+msgid ""
+"Select Pages from the dropdown for homepage our speciality and three circle "
+"section"
+msgstr "从下拉菜单中为主页我们的专业和三圆截面选择页面"
+
+#: inc/customizer.php:163
+msgid "Hide four column page boxes"
+msgstr "隐藏四柱页面框"
+
+#: inc/customizer.php:169
+msgid "Homepage Welcome Section"
+msgstr "首页欢迎科"
+
+#: inc/customizer.php:170
+msgid "Select Page from the dropdown for first section"
+msgstr "从第一节的下拉列表中选择页面"
+
+#: inc/customizer.php:192
+msgid "Hide Welcome Section"
+msgstr "欢迎部分"
+
+#: inc/customizer.php:198
+msgid "Social Settings"
+msgstr "社交设置"
+
+#: inc/customizer.php:199
+msgid "More social icon available in PRO Version"
+msgstr "更多的社会图标在 PRO Version 中可用。"
+
+#: inc/customizer.php:210
+msgid "Add facebook link here"
+msgstr "在这里增加facebook链接"
+
+#: inc/customizer.php:220
+msgid "Add twitter link here"
+msgstr "在这里增加twitter链接"
+
+#: inc/customizer.php:229
+msgid "Add google plus link here"
+msgstr "在这里添加google plus链接"
+
+#: inc/customizer.php:238
+msgid "Add linkedin link here"
+msgstr "在这里添加linkedin链接"
+
+#: inc/customizer.php:244
+msgid "Footer Area"
+msgstr "页脚区域"
+
+#: inc/customizer.php:246
+msgid "Add footer copyright text"
+msgstr "添加页脚版权文本"
+
+#: inc/customizer.php:255
+msgid "Add title for menu"
+msgstr "添加标题菜单"
+
+#: inc/customizer.php:266
+msgid "Add title for our philosophy"
+msgstr "添加标题为我们的理念"
+
+#: inc/customizer.php:277
+msgid "Add description for about us"
+msgstr "添加说明关于我们"
+
+#: inc/customizer.php:289
+msgid "Add link for footer read more button"
+msgstr "添加链接的页脚更多按钮"
+
+#: inc/customizer.php:300
+msgid "Add title for footer latest post"
+msgstr "添加标题页脚最新帖子"
+
+#: inc/customizer.php:308
+msgid "Add phone number and address"
+msgstr "添加电话号码和地址"
+
+#: inc/customizer.php:314
+msgid " +123 456 7890"
+msgstr "(123) 456-7890"
+
+#: inc/customizer.php:319
+msgid "Add contact phone number for header"
+msgstr "添加页眉的联系电话号码"
+
+#: inc/customizer.php:326 inc/customizer.php:345
+msgid "1600 Amphitheatre Parkway Mountain View, CA 94043"
+msgstr "1600剧场百汇山景城，CA 94043"
+
+#: inc/customizer.php:331
+msgid "Add contact address for header"
+msgstr "添加联系人地址头"
+
+#: inc/customizer.php:338
+msgid "Footer Contact Info"
+msgstr "页脚联系人"
+
+#: inc/customizer.php:339
+msgid "Add your contact details here"
+msgstr "添加联系方式"
+
+#: inc/customizer.php:350
+msgid "Add contact address here"
+msgstr "添加联系人地址在这里"
+
+#: inc/customizer.php:356
+msgid "+123 456 7890"
+msgstr "(123) 456-7890"
+
+#: inc/customizer.php:360
+msgid "Add contact number here."
+msgstr "添加联系号码"
+
+#: inc/customizer.php:370
+msgid "Add you email here"
+msgstr "添加邮箱"
+
+#: inc/customizer.php:439
+msgid "Upgrade to PRO Version"
+msgstr "升级成专业版"
+
+#: inc/customizer.php:440
+msgid "More Widgets in"
+msgstr "更多小部件"
+
+#: inc/customizer.php:441
+msgid "PRO Version"
+msgstr "更多的社会图标在 PRO Version 中可用。"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "广播:"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核."
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">发布时间 %1$s</span><span class=\"byline\"> 这 "
+"%2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布你的第一篇文章了吗？<a href=\"%1$s\">走你</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有匹配到搜索的条件，可尝试换一个关键词再搜索试试。"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "下面的文章也挺精彩的，又或许你可以通过搜索试试。"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "搜索..."
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "查找"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "分类"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "管理"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Coffee"
+msgstr "SKT Coffee"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-coffee/"
+msgstr "http://www.sktthemes.net/shop/skt-coffee/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal, local business, simple, flexible and corporate. Gym, "
+"Sports, fitness, medical, health and doctors, clinic etc can also use this "
+"theme. qTranslate X compatible for multilingual and translation ready. "
+"WooCommerce compatible for eCommerce and Nextgen Gallery compatible for "
+"gallery and portfolio websites. Contact form 7 compatible and WordPress SEO "
+"plugins compatible. Check demo at: http://sktthemesdemo.net/coffee-shop/"
+msgstr ""
+"SKT咖啡是一个负责任的咖啡厅和餐厅WordPress主题是多用途，可用于酒店，食品，食"
+"谱，自然，农业，商业，个人，地方企业，简单，灵活和企业。健身房，运动，健身，"
+"医疗，保健和医生，诊所等也可以使用这个主题。 qTranslate x对于多语种和翻译准备"
+"兼容。对于电子商务WooCommerce兼容，NextGen的画廊的画廊和投资组合的网站兼容。"
+"联系表7兼容和WordPress的搜索引擎插件兼容。检查在演示 : http://sktthemesdemo."
+"net/coffee-shop/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

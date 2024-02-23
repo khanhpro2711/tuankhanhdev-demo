@@ -1,0 +1,52 @@
+Version 1.0
+i)     Intial version Release
+
+Version 1.1
+i)     fixed overlaying admin bar
+ii)    Slider hide option
+iii)   page boxes hide option
+
+Version 1.2
+i)     Sovled unique prefix issue
+ii)    Solved nested comments indentation problem
+iii)   Widget styling for header info
+iv)    Solved sidebar overflow widgets issue
+v)     Solved post/page images align issue.
+vi)    Styled definition lists, acronym-tag, abbr-tag and q-tag
+vii)   Change screen shot image in size 1200x900
+viii)  Solved footer long word / title overlapping issue. 
+
+Version 1.3
+i)     Solved all notice issue as reported by reviewer.
+
+Version 1.4
+i)     Solved issue as reviewer reported.
+
+Version 1.5
+i)     Now we will remove ie.css.
+ii)	   Will not offering add logo to paying customer.. but will allready add functionality for adding logo under customize -> site 	   identity as per WordPress Version 4.5 Beta release.	     
+iii)   Solved every get_theme_mod() escaping issue under footer.php and inc/customizer.php
+
+Version 1.6
+i)     Solved all issues as reviewer reported.
+
+Version 1.7
+i)     Solved few issues as reviewer reported.
+
+Version 1.8
+i)     Solved few issues as reviewer reported.
+
+Version 1.9
+i)     Solved few issues as reviewer reported.
+
+Version 2.0
+i)     Solved Headers already sent error.
+ii)	   Added 10 Languages for translation ready.
+
+Version 2.1
+i)     Updated require PHP version.
+ii)    Compatibility with WordPress 6.3
+
+Version 2.2
+i)  Compatibility with WordPress 6.4
+ii) Added company footer credits

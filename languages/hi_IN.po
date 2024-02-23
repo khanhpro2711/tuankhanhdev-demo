@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Coffee\n"
+"POT-Creation-Date: 2016-05-24 15:04+0530\n"
+"PO-Revision-Date: 2016-05-24 15:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 नहीं मिला"
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn. Dont worry it happens to the best of us."
+msgstr "जैसे आप एक गलत मोड़ ले लिया है लग रहा है। चिंता यह हम में से सबसे अच्छा होता है न।"
+
+#: archive.php:36 category.php:32 index.php:34 search.php:25
+msgid "Back"
+msgstr "पिच्छें"
+
+#: archive.php:37 category.php:33 index.php:35 search.php:26
+msgid "Next"
+msgstr "अगला"
+
+#: archive.php:38 category.php:34 index.php:36 search.php:27
+msgid "Posts navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "पर \"%2$s\" एक विचार"
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "कमेन्ट नेविगेशन"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; अधिक पुरानी टिप्पणियां"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "नई टिप्पणी &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "सफे:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65 inc/template-tags.php:23
+#: inc/template-tags.php:42
+msgid "Edit"
+msgstr "संपादत करो"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "| टैग:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "और अधिक पढ़ें»"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "जारी रखें पढ़ने <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:20
+msgid "100 King St, Melbourne PIC 4000,<br /> Australia"
+msgstr "100 राजा सेंट, मेलबोर्न PIC 4000, <br /> ऑस्ट्रेलिया"
+
+#: footer.php:24
+msgid "<strong>Phone:</strong> +123 456 7890"
+msgstr "<strong>फोन:</strong>  123 456 7890"
+
+#: footer.php:28
+msgid "Email: "
+msgstr "हमें ईमेल"
+
+#: footer.php:54 inc/customizer.php:250
+msgid "Main Menu"
+msgstr "मुख्य मेनू"
+
+#: footer.php:64 inc/customizer.php:261
+msgid "Our Philosophy"
+msgstr "हमारा दर्शन"
+
+#: footer.php:67 inc/customizer.php:272
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien mauris, vitae "
+"sodales tellus venenatis ac. Suspendisse suscipit velit id ultricies auctor. Duis turpis arcu, "
+"aliquet sed sollicitudin sed, porta quis urna. Quisque velit nibh, egestas et erat a, vehicula "
+"interdum augue."
+msgstr ""
+"Donec केन्द्र शासित प्रदेशों में एक enim एसी सोता pellentesque mollis उदा। Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id ultricies auctor. Duis "
+"turpis arcu, aliquet sed sollicitudin sed, porta क़ैस urna. Quisque velit nibh, egestas एट erat "
+"एक, vehicula interdum augue।<br>Donec केन्द्र शासित प्रदेशों में एक enim एसी सोता pellentesque mollis "
+"उदा। Praesent placerat sapien mauris, vitae sodales tellus venenatis एसी suspendisse suscipit "
+"velit।"
+
+#: footer.php:71 footer.php:73 header.php:89
+msgid "Read More"
+msgstr "होर पढ़ो"
+
+#: footer.php:80 inc/customizer.php:295
+msgid "Latest Post"
+msgstr "नवीनतम लेख"
+
+#: footer.php:94
+msgid "Read more"
+msgstr "और पढ़ें..."
+
+#: footer.php:106
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:106
+msgid "All Rights Reserved"
+msgstr "सभी अधिकार सुरक्षित।"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "मुख्य मेनू"
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr "पाद मेनू"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "ब्लॉग के साइडबार"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "ब्लॉग पृष्ठ के साइडबार पर प्रकट होता है"
+
+#: functions.php:64 inc/customizer.php:307
+msgid "Header Info"
+msgstr "शीर्ष लेख और पाद लेख जानकारी"
+
+#: functions.php:65
+msgid "Appears on header of site"
+msgstr "साइट के शीर्ष पर प्रकट होता है"
+
+#: functions.php:84
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "ऑन"
+
+#: functions.php:91
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "ऑन"
+
+#: header.php:42
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: header.php:119
+msgid "Details"
+msgstr "विवरण"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"प्रकाशित <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> को <a href=\"%3$s\">%4$s × %5$s</a> <a href=\"%6$s\" rel=\"gallery\">%7$s</a> में"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">←</span> पिछला"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "अगला <span class=\"meta-nav\">→</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "विषय के बारे में"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "थीम के बारे में जानकारी"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is multipurpose and can be "
+"used for hotels, food, recipes, nature, agriculture, business, personal and corporate. Google "
+"map compatible for location, Video compatible for videos and qTranslate X compatible for "
+"multilingual and translation ready. WooCommerce compatible for Ecommerce and Nextgen Gallery "
+"compatible for gallery and portfolio websites. Contact form 7 compatible and WordPress SEO "
+"plugins compatible."
+msgstr ""
+"SKT कॉफी जो बहुउद्देशीय है और होटल, भोजन, व्यंजनों, प्रकृति, कृषि, व्यापार, व्यक्तिगत और कंपनियों के लिए इस्तेमाल "
+"किया जा सकता है कि एक संवेदनशील कैफे और रेस्तरां WordPress विषय है। गूगल मानचित्र स्थान के लिए संगत, वीडियो "
+"वीडियो और qTranslate एक्स बहुभाषी और अनुवाद के लिए तैयार के लिए संगत के लिए संगत। WooCommerce और ई-कॉमर्स "
+"के लिए संगत नेक्स्टजेन गैलरी गैलरी और पोर्टफोलियो वेबसाइटों के लिए संगत। संपर्क प्रपत्र 7 संगत और वर्डप्रेस एसईओ "
+"plugins संगत।"
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "लाइव डेमो"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "प्रो खरीदें"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "दस्तावेजीकरण"
+
+#: inc/customizer.php:39
+msgid "Color Scheme"
+msgstr "रंग स्कीम"
+
+#: inc/customizer.php:40
+msgid "More color options in PRO Version"
+msgstr "प्रो संस्करण में अधिक रंग विकल्प।"
+
+#: inc/customizer.php:50
+msgid "Slider Settings"
+msgstr "स्लाइडर सेटिंग्स"
+
+#: inc/customizer.php:52
+msgid "Featured Image Size Should be ( 1420x607 ) More slider settings available in PRO Version"
+msgstr "विशेष रुप से प्रदर्शित छवि का आकार (1420x607) अधिक स्लाइडर सेटिंग्स प्रो संस्करण में उपलब्ध होना चाहिए"
+
+#: inc/customizer.php:65
+msgid "Select page for slide one:"
+msgstr "एक स्लाइड के लिए पृष्ठ का चयन करें:"
+
+#: inc/customizer.php:77
+msgid "Select page for slide two:"
+msgstr "दो स्लाइड के लिए पृष्ठ का चयन करें:"
+
+#: inc/customizer.php:89
+msgid "Select page for slide three:"
+msgstr "तीन स्लाइड के लिए का चयन करें पृष्ठ:"
+
+#: inc/customizer.php:100
+msgid "Hide slider Section"
+msgstr "मिटायें स्लाइडर धारा"
+
+#: inc/customizer.php:106
+msgid "Homepage Our Speciality Section"
+msgstr "मुखपृष्ठ हमारे स्पेशलिटी धारा"
+
+#: inc/customizer.php:107
+msgid "Select Pages from the dropdown for homepage our speciality and three circle section"
+msgstr "मुखपृष्ठ हमारी विशेषता और तीन चक्र अनुभाग के लिए लटकती से पृष्ठों का चयन"
+
+#: inc/customizer.php:163
+msgid "Hide four column page boxes"
+msgstr "चार स्तंभ पेज बक्से छुपाएं"
+
+#: inc/customizer.php:169
+msgid "Homepage Welcome Section"
+msgstr "मुखपृष्ठ में आपका स्वागत है धारा"
+
+#: inc/customizer.php:170
+msgid "Select Page from the dropdown for first section"
+msgstr "पहला खंड के लिए ड्रॉप-डाउन से पृष्ठ का चयन करें"
+
+#: inc/customizer.php:192
+msgid "Hide Welcome Section"
+msgstr "आपका स्वागत धारा छुपाएं"
+
+#: inc/customizer.php:198
+msgid "Social Settings"
+msgstr "सामाजिक सेटिंग्स"
+
+#: inc/customizer.php:199
+msgid "More social icon available in PRO Version"
+msgstr "और अधिक सामाजिक चिह्न प्रो संस्करण में उपलब्ध।"
+
+#: inc/customizer.php:210
+msgid "Add facebook link here"
+msgstr "यहाँ facebook लिंक जोड़ें"
+
+#: inc/customizer.php:220
+msgid "Add twitter link here"
+msgstr "चहचहाना लिंक यहाँ जोड़ें"
+
+#: inc/customizer.php:229
+msgid "Add google plus link here"
+msgstr "जोड़ें गूगल प्लस यहाँ लिंक"
+
+#: inc/customizer.php:238
+msgid "Add linkedin link here"
+msgstr "Linkedin लिंक यहाँ जोड़ें"
+
+#: inc/customizer.php:244
+msgid "Footer Area"
+msgstr "पाद लेख क्षेत्र"
+
+#: inc/customizer.php:246
+msgid "Add footer copyright text"
+msgstr "पाद लेख कॉपीराइट पाठ जोड़ें"
+
+#: inc/customizer.php:255
+msgid "Add title for menu"
+msgstr "मेनू के लिए शीर्षक जोड़ें"
+
+#: inc/customizer.php:266
+msgid "Add title for our philosophy"
+msgstr "हमारे दर्शन के लिए शीर्षक जोड़ें"
+
+#: inc/customizer.php:277
+msgid "Add description for about us"
+msgstr "हमारे बारे में के लिए विवरण जोड़ें"
+
+#: inc/customizer.php:289
+msgid "Add link for footer read more button"
+msgstr "पाद लेख के लिए कड़ी जोड़े बटन पढ़ा"
+
+#: inc/customizer.php:300
+msgid "Add title for footer latest post"
+msgstr "पाद नवीनतम पोस्ट के लिए शीर्षक जोड़ें"
+
+#: inc/customizer.php:308
+msgid "Add phone number and address"
+msgstr "फोन नंबर और पता जोड़ें"
+
+#: inc/customizer.php:314
+msgid " +123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:319
+msgid "Add contact phone number for header"
+msgstr "शीर्ष लेख के लिए संपर्क फ़ोन नंबर जोड़ें"
+
+#: inc/customizer.php:326 inc/customizer.php:345
+msgid "1600 Amphitheatre Parkway Mountain View, CA 94043"
+msgstr "1600 एम्फीथिएटर पार्कवे माउंटेन व्यू, सीए 94043"
+
+#: inc/customizer.php:331
+msgid "Add contact address for header"
+msgstr "हेडर के लिए संपर्क पता जोड़ें"
+
+#: inc/customizer.php:338
+msgid "Footer Contact Info"
+msgstr "पाद संपर्क जानकारी"
+
+#: inc/customizer.php:339
+msgid "Add your contact details here"
+msgstr "आपके संपर्क विवरण यहाँ जोड़ें"
+
+#: inc/customizer.php:350
+msgid "Add contact address here"
+msgstr "संपर्क पते यहाँ जोड़ें"
+
+#: inc/customizer.php:356
+msgid "+123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:360
+msgid "Add contact number here."
+msgstr "संपर्क नंबर यहाँ जोड़ें।"
+
+#: inc/customizer.php:370
+msgid "Add you email here"
+msgstr "आप यहाँ ईमेल जोड़ें"
+
+#: inc/customizer.php:439
+msgid "Upgrade to PRO Version"
+msgstr "समर्थक संस्करण में नवीनीकृत"
+
+#: inc/customizer.php:440
+msgid "More Widgets in"
+msgstr "में अधिक विजेट्स"
+
+#: inc/customizer.php:441
+msgid "PRO Version"
+msgstr "और अधिक सामाजिक चिह्न प्रो संस्करण में उपलब्ध।"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "पिंगबैक:"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "1 S  1एस"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "आपकी टिप्पणी संतुलित किए जाने की प्रतीक्षा कर रही है।"
+
+#: inc/template-tags.php:137
+#, php-format
+msgid "<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s प्रकाशित</span> <span class=\"byline\">%2$s द्वारा</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "किश नेईं लब्भा"
+
+#: no-results.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट प्रकाशित करने के लिए तैयार हो? <a href=\"%1$s\">यहाँ शुरू हो जाओ</a> ।"
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+"माफ़ करें, लेकिन आपके खोज मानक से कुछ भी मिलान नहीं कर रहा है। कृपया कुछ अलग कीवर्ड के साथ फ़िर से कोशिश करें।"
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "यह हम नहीं पा सकते हैं तुम्हारे लिए क्या देख रहे हैं लगता है। शायद मदद कर सकते हैं खोज।"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "\"%s\" के लिए खोज परिणाम"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "खोजें..."
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "खोजें"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "श्रेणी"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "विकिपीडिया:अवरोधित सदस्य"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "मेटा"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Coffee"
+msgstr "SKT Coffee"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-coffee/"
+msgstr "http://www.sktthemes.net/shop/skt-coffee/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is multipurpose and can be "
+"used for hotels, food, recipes, nature, agriculture, business, personal, local business, "
+"simple, flexible and corporate. Gym, Sports, fitness, medical, health and doctors, clinic etc "
+"can also use this theme. qTranslate X compatible for multilingual and translation ready. "
+"WooCommerce compatible for eCommerce and Nextgen Gallery compatible for gallery and portfolio "
+"websites. Contact form 7 compatible and WordPress SEO plugins compatible. Check demo at: http://"
+"sktthemesdemo.net/coffee-shop/"
+msgstr ""
+"SKT कॉफी एक संवेदनशील कैफे और रेस्तरां WordPress विषय है जो बहुउद्देशीय है और होटल, भोजन, व्यंजनों, प्रकृति, "
+"कृषि, व्यापार, व्यक्तिगत, स्थानीय व्यापार, सरल, लचीला और कंपनियों के लिए इस्तेमाल किया जा सकता है। जिम, खेल, "
+"स्वास्थ्य, चिकित्सा, स्वास्थ्य और डॉक्टरों, क्लिनिक आदि भी इस विषय का उपयोग कर सकते हैं। qTranslate एक्स "
+"बहुभाषी और अनुवाद के लिए तैयार के लिए संगत। WooCommerce और ईकामर्स के लिए संगत नेक्स्टजेन गैलरी गैलरी और "
+"पोर्टफोलियो वेबसाइटों के लिए संगत। संपर्क प्रपत्र 7 संगत और वर्डप्रेस एसईओ plugins संगत। पर डेमो की जाँच करें: "
+"http://sktthemesdemo.net/coffee-shop/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

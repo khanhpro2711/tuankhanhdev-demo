@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Coffee\n"
+"POT-Creation-Date: 2016-05-24 15:06+0530\n"
+"PO-Revision-Date: 2016-05-24 15:07+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 - Página não encontrada"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr ""
+"Parece que você tenha tomado um rumo errado. Não se preocupe isso acontece "
+"com o melhor de nós."
+
+#: archive.php:36 category.php:32 index.php:34 search.php:25
+msgid "Back"
+msgstr "Voltar"
+
+#: archive.php:37 category.php:33 index.php:35 search.php:26
+msgid "Next"
+msgstr "Seg."
+
+#: archive.php:38 category.php:34 index.php:36 search.php:27
+msgid "Posts navigation"
+msgstr "Navegação de Posts"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Uma ideia sobre &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Navegação do comentário"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários Antigos"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Novos Comentários &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "Editar"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "| Tags:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "Leia mais"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo <span class=“meta-nov”>&rarr;</span>"
+
+#: footer.php:20
+msgid "100 King St, Melbourne PIC 4000,<br /> Australia"
+msgstr "100 King St, Melbourne PIC 4000, <br /> Austrália"
+
+#: footer.php:24
+msgid "<strong>Phone:</strong> +123 456 7890"
+msgstr "<strong>Telefone:</strong>  123 456 7890"
+
+#: footer.php:28
+msgid "Email: "
+msgstr "Adicione o endereço de e-mail aqui."
+
+#: footer.php:54 inc/customizer.php:250
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: footer.php:64 inc/customizer.php:261
+msgid "Our Philosophy"
+msgstr "Nossa filosofia"
+
+#: footer.php:67 inc/customizer.php:272
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue."
+msgstr ""
+"Donec ut ex ac nulla pellentesque mollis em um enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis AC Suspendisse suscipit velit "
+"ultricies id transcrevendo. DUIs turpis arcu, aliquet sed sollicitudin sed, "
+"porta quis urna. Quisque velit nibh, egestas et erat, agosto de interdum "
+"vehicula.<br>Donec ut ex ac nulla pellentesque mollis em um enim. Praesent "
+"placerat sapien mauris, vitae sodales tellus venenatis ac suspendisse "
+"suscipit velit."
+
+#: footer.php:71 footer.php:73 header.php:89
+msgid "Read More"
+msgstr "Saber Mais"
+
+#: footer.php:80 inc/customizer.php:295
+msgid "Latest Post"
+msgstr "Recentes Post"
+
+#: footer.php:94
+msgid "Read more"
+msgstr "Ler mais"
+
+#: footer.php:106
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:106
+msgid "All Rights Reserved"
+msgstr "Todos os Direitos Reservados"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "Navegação primária"
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr "Menu de Rodapé"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "Barra Lateral do Blog"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "Aparece na barra lateral do blogue"
+
+#: functions.php:64 inc/customizer.php:307
+msgid "Header Info"
+msgstr "Informações do Cabeçalho"
+
+#: functions.php:65
+msgid "Appears on header of site"
+msgstr "Aparece no cabeçalho do site"
+
+#: functions.php:84
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:91
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:42
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:119
+msgid "Details"
+msgstr "Detalhes"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Publicado <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> a <a href=\"%3$s\">%4$s &times; %5$s</a> em <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguinte <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "Sobre Tema"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "Sobre o tema informação"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal and corporate. Google map compatible for location, Video "
+"compatible for videos and qTranslate X compatible for multilingual and "
+"translation ready. WooCommerce compatible for Ecommerce and Nextgen Gallery "
+"compatible for gallery and portfolio websites. Contact form 7 compatible and "
+"WordPress SEO plugins compatible."
+msgstr ""
+"SKT O café é uma ágil café e restaurante WordPress tema que é polivalente e "
+"pode ser usado para hotéis, comida, receitas, natureza, agricultura, "
+"negócios, pessoais e corporativos. Google map compatível para localização, "
+"vídeo compatível para vídeos e qTranslate X compatíveis para multilingue e "
+"tradução pronta. WooCommerce compatível para comércio eletrônico e Nextgen "
+"Galeria compatível para galeria de carteira e websites. Formulário de "
+"contacto 7 compatível e WordPress SEO plugins compatível."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "Ver ao vivo"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "Comprar Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "Documentação"
+
+#: inc/customizer.php:39
+msgid "Color Scheme"
+msgstr "Escolha o esquema de cores"
+
+#: inc/customizer.php:40
+msgid "More color options in PRO Version"
+msgstr "Mais opções de cores na versão PRO."
+
+#: inc/customizer.php:50
+msgid "Slider Settings"
+msgstr "Definições Slider"
+
+#: inc/customizer.php:52
+msgid ""
+"Featured Image Size Should be ( 1420x607 ) More slider settings available in "
+"PRO Version"
+msgstr ""
+"Destaque tamanho da imagem deve ser (1420x607) Mais configurações do "
+"controle deslizante disponível na versão PRO"
+
+#: inc/customizer.php:65
+msgid "Select page for slide one:"
+msgstr "Selecione a página para um slide:"
+
+#: inc/customizer.php:77
+msgid "Select page for slide two:"
+msgstr "Selecione a página para slide dois:"
+
+#: inc/customizer.php:89
+msgid "Select page for slide three:"
+msgstr "Selecione a página para o slide 3:"
+
+#: inc/customizer.php:100
+msgid "Hide slider Section"
+msgstr "Seção deslizante Ocultar"
+
+#: inc/customizer.php:106
+msgid "Homepage Our Speciality Section"
+msgstr "Seção Nossa especializados Homepage"
+
+#: inc/customizer.php:107
+msgid ""
+"Select Pages from the dropdown for homepage our speciality and three circle "
+"section"
+msgstr ""
+"Selecione páginas na lista suspensa para homepage nossa seção especialidade "
+"e três círculo"
+
+#: inc/customizer.php:163
+msgid "Hide four column page boxes"
+msgstr "Esconder quatro caixas página coluna"
+
+#: inc/customizer.php:169
+msgid "Homepage Welcome Section"
+msgstr "Seção Bem-vindo Homepage"
+
+#: inc/customizer.php:170
+msgid "Select Page from the dropdown for first section"
+msgstr "Selecione a página na lista suspensa para a primeira seção"
+
+#: inc/customizer.php:192
+msgid "Hide Welcome Section"
+msgstr "Esconder Seção Bem-vindo"
+
+#: inc/customizer.php:198
+msgid "Social Settings"
+msgstr "Definições Redes Sociais"
+
+#: inc/customizer.php:199
+msgid "More social icon available in PRO Version"
+msgstr "Mais social ícone disponível na versão PRO."
+
+#: inc/customizer.php:210
+msgid "Add facebook link here"
+msgstr "Adicione o link do facebook aqui"
+
+#: inc/customizer.php:220
+msgid "Add twitter link here"
+msgstr "Adicionar o link no twitter aqui"
+
+#: inc/customizer.php:229
+msgid "Add google plus link here"
+msgstr "Adicionar Google Plus link aqui"
+
+#: inc/customizer.php:238
+msgid "Add linkedin link here"
+msgstr "Adicionar Link linkedin aqui"
+
+#: inc/customizer.php:244
+msgid "Footer Area"
+msgstr "Área do rodapé"
+
+#: inc/customizer.php:246
+msgid "Add footer copyright text"
+msgstr "Footer Copyright Text"
+
+#: inc/customizer.php:255
+msgid "Add title for menu"
+msgstr "Adicione um título para o menu"
+
+#: inc/customizer.php:266
+msgid "Add title for our philosophy"
+msgstr "Adicionar o título para a nossa filosofia"
+
+#: inc/customizer.php:277
+msgid "Add description for about us"
+msgstr "Adicionar descrição sobre nós"
+
+#: inc/customizer.php:289
+msgid "Add link for footer read more button"
+msgstr "Adicionar ligação para rodapé leia mais botão"
+
+#: inc/customizer.php:300
+msgid "Add title for footer latest post"
+msgstr "Adicionar título para rodapé última mensagem"
+
+#: inc/customizer.php:308
+msgid "Add phone number and address"
+msgstr "Adicionar número de telefone e endereço"
+
+#: inc/customizer.php:314
+msgid " +123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:319
+msgid "Add contact phone number for header"
+msgstr "Adicionar o número de telefone de contacto para cabeçalho"
+
+#: inc/customizer.php:326 inc/customizer.php:345
+msgid "1600 Amphitheatre Parkway Mountain View, CA 94043"
+msgstr "1600 Amphitheatre Parkway Mountain View, CA 94043"
+
+#: inc/customizer.php:331
+msgid "Add contact address for header"
+msgstr "Adicione o endereço de contato para cabeçalho"
+
+#: inc/customizer.php:338
+msgid "Footer Contact Info"
+msgstr "Rodapé Informações de Contato"
+
+#: inc/customizer.php:339
+msgid "Add your contact details here"
+msgstr "Adicione seus detalhes de contato aqui"
+
+#: inc/customizer.php:350
+msgid "Add contact address here"
+msgstr "Adicione o endereço de contato aqui"
+
+#: inc/customizer.php:356
+msgid "+123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:360
+msgid "Add contact number here."
+msgstr "Adicionar número de contato aqui."
+
+#: inc/customizer.php:370
+msgid "Add you email here"
+msgstr "Adicione-o e-mail aqui"
+
+#: inc/customizer.php:439
+msgid "Upgrade to PRO Version"
+msgstr "Atualizar para a versão PRO"
+
+#: inc/customizer.php:440
+msgid "More Widgets in"
+msgstr "Mais Widgets em"
+
+#: inc/customizer.php:441
+msgid "PRO Version"
+msgstr "Mais social ícone disponível na versão PRO."
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "Comentário em moderação"
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\\\"posted-on\\\">Publicado %1$s</span><span class=\\\"byline\\"
+"\"> por %2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Não Foi Encontrado"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto para publicares o teu primeiro artigo? <a href=\"%1$s\">Comece aqui</"
+"a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada combina com seus termos de pesquisa. Por favor, tente "
+"novamente com algumas palavras-chave diferentes."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não foi possível encontrar o que procurava. Talvez uma pesquisa "
+"ajude."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Pesquisar..."
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pesquisar"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Categoria"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Arquivos"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Coffee"
+msgstr "SKT Coffee"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-coffee/"
+msgstr "http://www.sktthemes.net/shop/skt-coffee/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal, local business, simple, flexible and corporate. Gym, "
+"Sports, fitness, medical, health and doctors, clinic etc can also use this "
+"theme. qTranslate X compatible for multilingual and translation ready. "
+"WooCommerce compatible for eCommerce and Nextgen Gallery compatible for "
+"gallery and portfolio websites. Contact form 7 compatible and WordPress SEO "
+"plugins compatible. Check demo at: http://sktthemesdemo.net/coffee-shop/"
+msgstr ""
+"SKT O café é um café ágil e restaurante WordPress tema que é polivalente e "
+"pode ser usado para hotéis, comida, receitas, natureza, agricultura, "
+"negócios,, negócio local pessoal, simples, flexível e corporativos. Gym, "
+"esportes, aptidão, médico, saúde e médicos, clínica etc também pode usar "
+"este tema. qTranslate X compatível para multilingue e tradução pronta. "
+"WooCommerce compatível para eCommerce e Nextgen Galeria compatível para "
+"galeria de carteira e websites. Formulário de contacto 7 compatível e "
+"WordPress SEO plugins compatível. Verifique programa demonstrativo em: "
+"http://sktthemesdemo.net/coffee-shop/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

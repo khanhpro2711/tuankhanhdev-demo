@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Coffee\n"
+"POT-Creation-Date: 2016-05-24 15:22+0530\n"
+"PO-Revision-Date: 2016-05-24 15:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404エラー    見つかりません"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr ""
+"あなたは間違ったターンをとっているように見えます。それが私たちの最高のに何が"
+"起こる心配はいけません。"
+
+#: archive.php:36 category.php:32 index.php:34 search.php:25
+msgid "Back"
+msgstr "戻る"
+
+#: archive.php:37 category.php:33 index.php:35 search.php:26
+msgid "Next"
+msgstr "次へ"
+
+#: archive.php:38 category.php:34 index.php:36 search.php:27
+msgid "Posts navigation"
+msgstr "投稿のナビゲーション"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "\"%2$s\"の上の1つの考え"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "編集"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "|タグ："
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "続きを読む"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:20
+msgid "100 King St, Melbourne PIC 4000,<br /> Australia"
+msgstr "100キングストリート、メルボルンPIC 4000、 <br />オーストラリア"
+
+#: footer.php:24
+msgid "<strong>Phone:</strong> +123 456 7890"
+msgstr "<strong>電話番号： 123</strong> 456 7890"
+
+#: footer.php:28
+msgid "Email: "
+msgstr "ここにFAX番号を追加します。"
+
+#: footer.php:54 inc/customizer.php:250
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: footer.php:64 inc/customizer.php:261
+msgid "Our Philosophy"
+msgstr "私たちの理念"
+
+#: footer.php:67 inc/customizer.php:272
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue."
+msgstr ""
+"〜している間UTの元の交流NULLA pellentesqueモリスでA enim。 Praesentは"
+"placerat SAPIEN mauris、履歴書はTELLUS venenatis交流をsodales。 Suspendisse "
+"suscipitのvelitのid ultriciesのauctor。 DuisのturpisのARCU、sedの"
+"sollicitudin sedのaliquet、ポルタQUIS urna。 Quisque velitのNIBH、排出物らは"
+"ERAT、vehicula interdum augue。 <br /></br > 〜している間UTの元の交流NULLA "
+"pellentesqueモリスでA enim。 Praesent placerat SAPIEN mauris、履歴書のsodales"
+"のTELLUS venenatis交流suspendisse suscipitのvelit。"
+
+#: footer.php:71 footer.php:73 header.php:89
+msgid "Read More"
+msgstr "もっと見る"
+
+#: footer.php:80 inc/customizer.php:295
+msgid "Latest Post"
+msgstr "最新の投稿"
+
+#: footer.php:94
+msgid "Read more"
+msgstr "続きを読む"
+
+#: footer.php:106
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:106
+msgid "All Rights Reserved"
+msgstr "(無断複写・複製・転載を禁ず)"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "ブログサイドバー"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "ブログのページのサイドバーに表示"
+
+#: functions.php:64 inc/customizer.php:307
+msgid "Header Info"
+msgstr "ヘッダー情報"
+
+#: functions.php:65
+msgid "Appears on header of site"
+msgstr "サイトのヘッダーに表示されます。"
+
+#: functions.php:84
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:91
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:42
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:119
+msgid "Details"
+msgstr "詳細"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"投稿<span class=“entry-date”><time class=“entry-date” datetime=“%1$s”>%2$s</"
+"time></span> at <a href=“%3$s” title=“Link to full-size image”>%4$s &times; "
+"%5$s</a>、<a href=“%6$s” title=“Return to %7$s” rel=“gallery”>%8$s</a>に"
+"<span class=“meta-prep meta-prep-entry-date”>投稿された</span>。"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=“meta-nav”>&larr;</span> 前へ"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "次へ<span class=“meta-nav”>&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "テーマについて"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "テーマ情報について"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal and corporate. Google map compatible for location, Video "
+"compatible for videos and qTranslate X compatible for multilingual and "
+"translation ready. WooCommerce compatible for Ecommerce and Nextgen Gallery "
+"compatible for gallery and portfolio websites. Contact form 7 compatible and "
+"WordPress SEO plugins compatible."
+msgstr ""
+"SKTコーヒーは多目的で、個人情報や企業のホテル、食品、レシピ、自然、農業、ビジ"
+"ネス、のために使用することができます応答カフェやレストランのWordPressテーマで"
+"す。場所の互換性のGoogleマップ、多言語および翻訳の準備のためのビデオの互換性"
+"のあるビデオとqTranslate X互換。 WooCommerce eコマースのための互換性やギャラ"
+"リーやポートフォリオのウェブサイトのための互換性NextGenのギャラリー。お問い合"
+"わせフォーム7の互換性とWordPressのSEOプラグインの互換性。"
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "ライブデモ"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "プロ購入"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "説明書"
+
+#: inc/customizer.php:39
+msgid "Color Scheme"
+msgstr "配色パターン"
+
+#: inc/customizer.php:40
+msgid "More color options in PRO Version"
+msgstr "PROバージョンのより多くの色のオプション。"
+
+#: inc/customizer.php:50
+msgid "Slider Settings"
+msgstr "スライダーの設定"
+
+#: inc/customizer.php:52
+msgid ""
+"Featured Image Size Should be ( 1420x607 ) More slider settings available in "
+"PRO Version"
+msgstr ""
+"注目の画像サイズは、PROバージョンで利用可能（1420x607）その他のスライダーの設"
+"定にする必要があり"
+
+#: inc/customizer.php:65
+msgid "Select page for slide one:"
+msgstr "スライド1ページを選択します。"
+
+#: inc/customizer.php:77
+msgid "Select page for slide two:"
+msgstr "スライド2のページを選択します。"
+
+#: inc/customizer.php:89
+msgid "Select page for slide three:"
+msgstr "スライド3のページを選択します。"
+
+#: inc/customizer.php:100
+msgid "Hide slider Section"
+msgstr "隠すスライダ部"
+
+#: inc/customizer.php:106
+msgid "Homepage Our Speciality Section"
+msgstr "ホームページ私たちの専門セクション"
+
+#: inc/customizer.php:107
+msgid ""
+"Select Pages from the dropdown for homepage our speciality and three circle "
+"section"
+msgstr ""
+"ホームページ私たちの専門と3円セクションのドロップダウンからページを選択します"
+
+#: inc/customizer.php:163
+msgid "Hide four column page boxes"
+msgstr "4列のページボックスを非表示にします"
+
+#: inc/customizer.php:169
+msgid "Homepage Welcome Section"
+msgstr "ホームページへようこそセクション"
+
+#: inc/customizer.php:170
+msgid "Select Page from the dropdown for first section"
+msgstr "最初のセクションのドロップダウンからページを選択します"
+
+#: inc/customizer.php:192
+msgid "Hide Welcome Section"
+msgstr "ようこそセクションを非表示にします"
+
+#: inc/customizer.php:198
+msgid "Social Settings"
+msgstr "ソーシャル設定"
+
+#: inc/customizer.php:199
+msgid "More social icon available in PRO Version"
+msgstr "PROバージョンで利用可能なより多くの社会的なアイコン。"
+
+#: inc/customizer.php:210
+msgid "Add facebook link here"
+msgstr "ここではFacebookのリンクを追加"
+
+#: inc/customizer.php:220
+msgid "Add twitter link here"
+msgstr "ここではTwitterのリンク​​を追加"
+
+#: inc/customizer.php:229
+msgid "Add google plus link here"
+msgstr "ここでグーグルプラスリンクを追加"
+
+#: inc/customizer.php:238
+msgid "Add linkedin link here"
+msgstr "ここではLinkedInのリンクを追加"
+
+#: inc/customizer.php:244
+msgid "Footer Area"
+msgstr "フッターエリア"
+
+#: inc/customizer.php:246
+msgid "Add footer copyright text"
+msgstr "フッター著作権テキスト"
+
+#: inc/customizer.php:255
+msgid "Add title for menu"
+msgstr "メニューのタイトルを追加します。"
+
+#: inc/customizer.php:266
+msgid "Add title for our philosophy"
+msgstr "私たちの理念のためにタイトルを追加します。"
+
+#: inc/customizer.php:277
+msgid "Add description for about us"
+msgstr "私達についての説明を追加"
+
+#: inc/customizer.php:289
+msgid "Add link for footer read more button"
+msgstr "フッターのリンクを追加し、よりボタンを読みます"
+
+#: inc/customizer.php:300
+msgid "Add title for footer latest post"
+msgstr "フッター最新のポストのタイトルを追加します。"
+
+#: inc/customizer.php:308
+msgid "Add phone number and address"
+msgstr "電話番号とアドレスを追加します。"
+
+#: inc/customizer.php:314
+msgid " +123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:319
+msgid "Add contact phone number for header"
+msgstr "ヘッダの連絡先電話番号を追加"
+
+#: inc/customizer.php:326 inc/customizer.php:345
+msgid "1600 Amphitheatre Parkway Mountain View, CA 94043"
+msgstr ""
+"1600アンフィシアターパークウェイマウンテンビュー、カリフォルニア州94043"
+
+#: inc/customizer.php:331
+msgid "Add contact address for header"
+msgstr "ヘッダーのための連絡先を追加します。"
+
+#: inc/customizer.php:338
+msgid "Footer Contact Info"
+msgstr "フッターお問い合わせ"
+
+#: inc/customizer.php:339
+msgid "Add your contact details here"
+msgstr "ここにあなたの連絡先の詳細を追加します。"
+
+#: inc/customizer.php:350
+msgid "Add contact address here"
+msgstr "ここで連絡先を追加します。"
+
+#: inc/customizer.php:356
+msgid "+123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:360
+msgid "Add contact number here."
+msgstr "ここで連絡先番号を追加します。"
+
+#: inc/customizer.php:370
+msgid "Add you email here"
+msgstr "ここにあなたの電子メールを追加します。"
+
+#: inc/customizer.php:439
+msgid "Upgrade to PRO Version"
+msgstr "プロ版にアップグレード"
+
+#: inc/customizer.php:440
+msgid "More Widgets in"
+msgstr "もっとウィジェットで"
+
+#: inc/customizer.php:441
+msgid "PRO Version"
+msgstr "PROバージョンで利用可能なより多くの社会的なアイコン。"
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "ピンバック："
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは管理者の承認待ちです。"
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"byline\">%2$sの</span> <span class=\"posted-on\">%1$sを公開</"
+"span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"最初の投稿の準備はできましたか? <a href=“%1$s”>ここ</a>からはじめましょう。"
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"検索キーワードに一致するコンテンツが見つかりませんでした。他のキーワードをお"
+"試しください。"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのコンテンツが見つかりません。検索をお試しください。"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "検索…"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "カテゴリ"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "メタ"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Coffee"
+msgstr "SKT Coffee"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-coffee/"
+msgstr "http://www.sktthemes.net/shop/skt-coffee/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal, local business, simple, flexible and corporate. Gym, "
+"Sports, fitness, medical, health and doctors, clinic etc can also use this "
+"theme. qTranslate X compatible for multilingual and translation ready. "
+"WooCommerce compatible for eCommerce and Nextgen Gallery compatible for "
+"gallery and portfolio websites. Contact form 7 compatible and WordPress SEO "
+"plugins compatible. Check demo at: http://sktthemesdemo.net/coffee-shop/"
+msgstr ""
+"SKTコーヒーは多目的であり、単純な柔軟で企業ホテル、食品、レシピ、自然、農業、"
+"ビジネス、個人的な、ローカルビジネスのために使用することができる応答カフェや"
+"レストランのWordPressテーマです。ジム、スポーツ、フィットネス、医療、健康、医"
+"師は、診療所のなども、このテーマを使用することができます。多言語と翻訳準備の"
+"ためのqTranslate X互換。 WooCommerce eコマースのための互換性やギャラリーや"
+"ポートフォリオのウェブサイトのための互換性NextGenのギャラリー。お問い合わせ"
+"フォーム7の互換性とWordPressのSEOプラグインの互換性。デモをでチェック： "
+"http://sktthemesdemo.net/coffee-shop/"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"

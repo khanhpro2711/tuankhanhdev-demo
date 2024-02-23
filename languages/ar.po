@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Coffee\n"
+"POT-Creation-Date: 2016-05-24 15:15+0530\n"
+"PO-Revision-Date: 2016-05-24 15:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "خطأ الصفحه غير موجوده"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr "يبدو أنك قد اتخذت منعطفا خاطئا. لا تقلق يحدث لأفضل منا."
+
+#: archive.php:36 category.php:32 index.php:34 search.php:25
+msgid "Back"
+msgstr "رجوع"
+
+#: archive.php:37 category.php:33 index.php:35 search.php:26
+msgid "Next"
+msgstr "التالي"
+
+#: archive.php:38 category.php:34 index.php:36 search.php:27
+msgid "Posts navigation"
+msgstr "تصفّح المواضيع"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "واحد يفكر في &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "الإنتقال بين التعليقات"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "‏أقدم التعليقات"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "أحدث التعليقات"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة"
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "الصفحات :"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:23 inc/template-tags.php:42
+msgid "Edit"
+msgstr "تحرير"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "| به:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "اقرأ المزيد &raquo;"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "أكمل قراءة <span class=“meta-nav”>&rarr;</span>"
+
+#: footer.php:20
+msgid "100 King St, Melbourne PIC 4000,<br /> Australia"
+msgstr "100 الملك القديس، ملبورن الموافقة المسبقة عن علم 4000، <br /> أستراليا"
+
+#: footer.php:24
+msgid "<strong>Phone:</strong> +123 456 7890"
+msgstr "<strong>الهاتف:</strong>  123 456 7890"
+
+#: footer.php:28
+msgid "Email: "
+msgstr "إضافة عنوان البريد الإلكتروني هنا."
+
+#: footer.php:54 inc/customizer.php:250
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:64 inc/customizer.php:261
+msgid "Our Philosophy"
+msgstr "1-1 فلسفتنا"
+
+#: footer.php:67 inc/customizer.php:272
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue."
+msgstr ""
+"أبجد هوز حطي ت ثخذ أبجد nulla التيار المتردد في هوز. براسنت ثخذ ضظغ كلمن، "
+"الذاتية حطي تيلوس حطي يتراوح سوسبينديسي سعفص قرشت معرف ثخذ ثخذ. أبجد هوز ثخذ "
+"ضظغ، sed سوليسيتودين أبجد هوز، حطي بورتا ارنا. أبجد قرشت قرشت، ضظغ et حطي أ، "
+"أغا ثخذ فيهيكولا.<br>أبجد هوز حطي ت ثخذ أبجد nulla التيار المتردد في هوز. "
+"براسنت ثخذ ضظغ كلمن، الذاتية حطي تيلوس حطي ac سوسبينديسي سعفص قرشت."
+
+#: footer.php:71 footer.php:73 header.php:89
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: footer.php:80 inc/customizer.php:295
+msgid "Latest Post"
+msgstr "آخر مشاركة"
+
+#: footer.php:94
+msgid "Read more"
+msgstr "قرأة ألمعلومات"
+
+#: footer.php:106
+msgid "&copy; 2016"
+msgstr "© 2016"
+
+#: footer.php:106
+msgid "All Rights Reserved"
+msgstr "جميع الحقوق محفوظة"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "القائمة الأولية"
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr "القائمة السفلى"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "الشريط الجانبي للمدونة"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "يظهر في الشريط الجانبي في صفحة المدونة"
+
+#: functions.php:64 inc/customizer.php:307
+msgid "Header Info"
+msgstr "معلومات رأس الصفحة"
+
+#: functions.php:65
+msgid "Appears on header of site"
+msgstr "يظهر على رأس الموقع"
+
+#: functions.php:84
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "على"
+
+#: functions.php:91
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "على"
+
+#: header.php:42
+msgid "Menu"
+msgstr "القائمة"
+
+#: header.php:119
+msgid "Details"
+msgstr "التفاصيل"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"نشرت <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">"
+"%2$s</time></span> فى <a href=\"%3$s\">%4$s &times; %5$s</a> فى <a href="
+"\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "‏<span class=“meta-nav”>&rarr;</span> السابق"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "التالى <span class=“meta-nav”>&larr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "حول موضوع"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "حول معلومات الموضوع"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal and corporate. Google map compatible for location, Video "
+"compatible for videos and qTranslate X compatible for multilingual and "
+"translation ready. WooCommerce compatible for Ecommerce and Nextgen Gallery "
+"compatible for gallery and portfolio websites. Contact form 7 compatible and "
+"WordPress SEO plugins compatible."
+msgstr ""
+"SKT القهوة هو مقهى استجابة ومطعم وورد موضوع وهو متعددة الأغراض، ويمكن "
+"استخدامها للفنادق والغذاء، وصفات، والطبيعة، والزراعة، والأعمال التجارية "
+"والشخصية والشركات. خريطة جوجل تتلاءم مع الموقع، فيديو متوافق لأشرطة الفيديو "
+"وqTranslate X تتلاءم مع اللغات والترجمة جاهزة. WooCommerce تتلاءم مع التجارة "
+"الإلكترونية والجيل القادم معرض تتلاءم مع معرض ومحفظة المواقع. نموذج الاتصال "
+"7 متوافق مع وورد كبار المسئولين الاقتصاديين المحمول متوافق."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "عرض التجريبي"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "شراء برو"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "الوثائق"
+
+#: inc/customizer.php:39
+msgid "Color Scheme"
+msgstr "اللون"
+
+#: inc/customizer.php:40
+msgid "More color options in PRO Version"
+msgstr "خيارات الألوان أكثر في إصدار المحترفين."
+
+#: inc/customizer.php:50
+msgid "Slider Settings"
+msgstr "اعدادات السلايدر"
+
+#: inc/customizer.php:52
+msgid ""
+"Featured Image Size Should be ( 1420x607 ) More slider settings available in "
+"PRO Version"
+msgstr ""
+"وينبغي أن تكون واردة حجم الصورة (1420x607) عن ضبط المنزلق متوفرة في النسخة "
+"PRO"
+
+#: inc/customizer.php:65
+msgid "Select page for slide one:"
+msgstr "حدد صفحة لشريحة واحدة:"
+
+#: inc/customizer.php:77
+msgid "Select page for slide two:"
+msgstr "حدد صفحة للشريحة الثانية:"
+
+#: inc/customizer.php:89
+msgid "Select page for slide three:"
+msgstr "حدد الصفحة للشرائح الثلاث:"
+
+#: inc/customizer.php:100
+msgid "Hide slider Section"
+msgstr "القسم المنزلق إخفاء"
+
+#: inc/customizer.php:106
+msgid "Homepage Our Speciality Section"
+msgstr "الصفحة الرئيسية القسم تخصصنا"
+
+#: inc/customizer.php:107
+msgid ""
+"Select Pages from the dropdown for homepage our speciality and three circle "
+"section"
+msgstr "اختر الصفحات من القائمة المنسدلة لدينا قسم التخصص وثلاثة دائرة زيارة"
+
+#: inc/customizer.php:163
+msgid "Hide four column page boxes"
+msgstr "إخفاء أربعة صناديق الصفحة عمود"
+
+#: inc/customizer.php:169
+msgid "Homepage Welcome Section"
+msgstr "القسم مرحبا الصفحة الرئيسية"
+
+#: inc/customizer.php:170
+msgid "Select Page from the dropdown for first section"
+msgstr "حدد الصفحة من القائمة المنسدلة للقسم الأول"
+
+#: inc/customizer.php:192
+msgid "Hide Welcome Section"
+msgstr "إخفاء مرحبا بكم القسم"
+
+#: inc/customizer.php:198
+msgid "Social Settings"
+msgstr "الاعدادات الاجتماعية"
+
+#: inc/customizer.php:199
+msgid "More social icon available in PRO Version"
+msgstr "رمز أكثر الاجتماعية المتوفرة في الإصدار PRO."
+
+#: inc/customizer.php:210
+msgid "Add facebook link here"
+msgstr "إضافة رابط ألفيس بوك هنا"
+
+#: inc/customizer.php:220
+msgid "Add twitter link here"
+msgstr "إضافة رابط تويتر هنا"
+
+#: inc/customizer.php:229
+msgid "Add google plus link here"
+msgstr "إضافة جوجل بالإضافة إلى ارتباط هنا"
+
+#: inc/customizer.php:238
+msgid "Add linkedin link here"
+msgstr "أضف وصلة linkedin هنا"
+
+#: inc/customizer.php:244
+msgid "Footer Area"
+msgstr "منطقة التذييل"
+
+#: inc/customizer.php:246
+msgid "Add footer copyright text"
+msgstr "حقوق الفوتر"
+
+#: inc/customizer.php:255
+msgid "Add title for menu"
+msgstr "إضافة عنوان للقائمة"
+
+#: inc/customizer.php:266
+msgid "Add title for our philosophy"
+msgstr "إضافة عنوان لفلسفتنا"
+
+#: inc/customizer.php:277
+msgid "Add description for about us"
+msgstr "إضافة وصف عنا"
+
+#: inc/customizer.php:289
+msgid "Add link for footer read more button"
+msgstr "إضافة رابط لتذييل اقرأ المزيد زر"
+
+#: inc/customizer.php:300
+msgid "Add title for footer latest post"
+msgstr "إضافة عنوان للتذييل على آخر مساهمة"
+
+#: inc/customizer.php:308
+msgid "Add phone number and address"
+msgstr "إضافة رقم الهاتف وعنوان"
+
+#: inc/customizer.php:314
+msgid " +123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:319
+msgid "Add contact phone number for header"
+msgstr "إضافة رقم هاتف جهة اتصال للرأس"
+
+#: inc/customizer.php:326 inc/customizer.php:345
+msgid "1600 Amphitheatre Parkway Mountain View, CA 94043"
+msgstr "1600 المدرج باركواي ماونتن فيو، كاليفورنيا 94043"
+
+#: inc/customizer.php:331
+msgid "Add contact address for header"
+msgstr "إضافة عنوان الاتصال للرأس"
+
+#: inc/customizer.php:338
+msgid "Footer Contact Info"
+msgstr "تذييل معلومات الاتصال"
+
+#: inc/customizer.php:339
+msgid "Add your contact details here"
+msgstr "إضافة تفاصيل الاتصال الخاصة بك هنا"
+
+#: inc/customizer.php:350
+msgid "Add contact address here"
+msgstr "إضافة عنوان جهة الاتصال هنا"
+
+#: inc/customizer.php:356
+msgid "+123 456 7890"
+msgstr "123 456 7890"
+
+#: inc/customizer.php:360
+msgid "Add contact number here."
+msgstr "إضافة رقم الاتصال هنا."
+
+#: inc/customizer.php:370
+msgid "Add you email here"
+msgstr "إضافة لك البريد الإلكتروني هنا"
+
+#: inc/customizer.php:439
+msgid "Upgrade to PRO Version"
+msgstr "الترقية إلى الإصدار برو"
+
+#: inc/customizer.php:440
+msgid "More Widgets in"
+msgstr "المزيد من الحاجيات في"
+
+#: inc/customizer.php:441
+msgid "PRO Version"
+msgstr "رمز أكثر الاجتماعية المتوفرة في الإصدار PRO."
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr "التعقيبات"
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr "شكرا لك … تعليقك بإنتظار المراجعة وسيتم نشره قريبا."
+
+#: inc/template-tags.php:137
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">نشرت %1$s</span> <span class=\"byline\">بواسطة "
+"%2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر أول مقالة لك؟ <a href=\"%s\">أبدأ من هنا </a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"معذرة، لكن لا شئ له صلة بمصطلحات بحثك. الرجاء المحاولة مرة أخرى ببعض كلمات "
+"مفتاحية مختلفة،"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"يبدو أننا لا يمكننا &rsquo;t العثور على ماذا أنت&rsquo;re تبحث عنه. ربما "
+"البحث يستطيع المساعدة."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث لـ : %s"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "بحث بواسطة"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "الاقسام"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "الأرشيفات"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "علامة الوصف"
+
+#. Theme Name of the plugin/theme
+msgid "SKT Coffee"
+msgstr "SKT Coffee"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/skt-coffee/"
+msgstr "http://www.sktthemes.net/shop/skt-coffee/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Coffee is a responsive cafe and restaurant WordPress theme which is "
+"multipurpose and can be used for hotels, food, recipes, nature, agriculture, "
+"business, personal, local business, simple, flexible and corporate. Gym, "
+"Sports, fitness, medical, health and doctors, clinic etc can also use this "
+"theme. qTranslate X compatible for multilingual and translation ready. "
+"WooCommerce compatible for eCommerce and Nextgen Gallery compatible for "
+"gallery and portfolio websites. Contact form 7 compatible and WordPress SEO "
+"plugins compatible. Check demo at: http://sktthemesdemo.net/coffee-shop/"
+msgstr ""
+" القهوة هو مقهى استجابة ومطعم وورد موضوع وهو متعددة الأغراض، ويمكن استخدامها "
+"للفنادق والغذاء، وصفات، والطبيعة، والزراعة، والأعمال التجارية والشخصية، "
+"والأعمال التجارية المحلية، بسيطة ومرنة والشركات. رياضة، الرياضة، واللياقة "
+"البدنية والطبية والصحية والأطباء والعيادات وغيرها ويمكن أيضا استخدام هذا "
+"الموضوع. qTranslate X تتلاءم مع اللغات والترجمة جاهزة. WooCommerce تتلاءم مع "
+"التجارة الإلكترونية والجيل القادم معرض تتلاءم مع معرض ومحفظة المواقع. نموذج "
+"الاتصال 7 متوافق مع وورد كبار المسئولين الاقتصاديين المحمول متوافق. تحقق "
+"التجريبي في:http://sktthemesdemo.net/coffee-shop"
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"
